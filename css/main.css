@@ -9,6 +9,10 @@ body .carousel{
     background-color: skyblue;
 }
 
+.center-block {
+    object-fit: contain;
+}
+
 
 
 
